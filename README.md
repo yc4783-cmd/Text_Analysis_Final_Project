@@ -1,4 +1,4 @@
-# Text_Analysis_Final_Project
+# A Sentiment & Text Analysis of YouTube Comments on ESG Investing
 
 This project analyzes how the public discusses ESG (Environmental, Social, and Governance) investing on YouTube. I collected comments from a set of ESG-related videos (with more than 50 comments) and applied text cleaning, VADER sentiment scoring, and TF-IDF keyword extraction to examine the sentiments and themes of these conversations.
 
